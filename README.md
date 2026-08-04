@@ -56,7 +56,7 @@ An intelligent interview preparation system designed to simulate real interviews
 
 ## 🤝 Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com/in/haidar-ali-53b35b39a?utm_source=share_via&utm_content=profile&utm_medium=member_android  
+💼 LinkedIn: https://www.linkedin.com/in/haidar-ali-53b35b39a
 📧 Email: haidarali123121@gmail.com
 ---
 
