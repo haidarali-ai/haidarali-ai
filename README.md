@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Haidar Ali</h1>
 
-<!--
-**haidarali-ai/haidarali-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+AI Enthusiast 🤖 | Computer Science Engineering Student 💻
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Passionate about Artificial Intelligence, Machine Learning and building intelligent solutions.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science Engineering Student
+- 🤖 Passionate about Artificial Intelligence & Machine Learning
+- 🔭 Currently working on AI-based projects
+- 🌱 Learning Machine Learning, NLP & Generative AI
+- 💡 Interested in solving real-world problems using technology
+- 🎯 Goal: Become an AI/Software Engineer
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+`Python` • `Java` • `C` • `HTML` • `CSS` • `JavaScript`
+
+### 🤖 AI & Technologies
+`Artificial Intelligence` • `Machine Learning` • `NLP` • `Git` • `GitHub`
+
+---
+
+## 🚀 Featured Project
+
+### 🤖 Smart Interview Simulator with AI Feedback
+
+An intelligent interview preparation system designed to simulate real interviews and provide personalized AI-powered feedback.
+
+**Key Features:**
+- 🧠 AI-based response analysis
+- 🎙️ Voice & speech analysis
+- 😊 Facial expression analysis
+- 💬 NLP-based answer evaluation
+- 📊 Candidate performance feedback
+
+---
+
+## 📈 GitHub Stats
+
+![Haidar's GitHub stats](https://github-readme-stats.vercel.app/api?username=haidarali-ai&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haidarali-ai&layout=compact)
+
+---
+
+## 🤝 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/haidar-ali-53b35b39a?utm_source=share_via&utm_content=profile&utm_medium=member_android  
+📧 Email: haidarali123121@gmail.com
+---
+
+<p align="center">
+⭐ <b>Code • Learn • Build • Repeat</b> 🚀
+</p>
